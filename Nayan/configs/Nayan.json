@@ -1,10 +1,10 @@
 {
   "login": {
-    "email": "email",
-    "password": "password"
+    "email": "forhadhossenmulla1@gmail.com",
+    "password": "HIMU1585"
   },
   "loginoptions": {
-    "selfListen": false,
+    "selfListen": true,
     "selfListenEvent": false,
     "listenEvents": true,
     "listenTyping": false,
